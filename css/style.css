@@ -16,12 +16,26 @@
 }
 .acount{
   font-weight: bold;
+  font-size: large;
+  font-family: "Helvetica Neue",
+    Arial,
+    "Hiragino Kaku Gothic ProN",
+    "Hiragino Sans",
+    Meiryo,
+    sans-serif;
 }
 .mail{
   display: flex;
 }
 .addres{
   font-weight: bold;
+  font-size: large;
+  font-family: "Helvetica Neue",
+    Arial,
+    "Hiragino Kaku Gothic ProN",
+    "Hiragino Sans",
+    Meiryo,
+    sans-serif;
 }
 .line{
   line-height: 3;
@@ -98,6 +112,7 @@
 
 .line.insta.mail{
   margin-left: 130px;
+
 }
 
 .weclub{

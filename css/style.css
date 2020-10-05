@@ -25,6 +25,13 @@
 }
 .line{
   line-height: 3;
+  font-size: large;
+  font-family: "Helvetica Neue",
+    Arial,
+    "Hiragino Kaku Gothic ProN",
+    "Hiragino Sans",
+    Meiryo,
+    sans-serif;
 }
 .pic{
   border-radius: 50%;
@@ -36,8 +43,8 @@
 .profile{
   margin-top: 70px;
   margin-left: 40px;
-  font-weight: bold;
-  font-family: 'Times New Roman', Times, serif;
+  font-weight: normal;
+  font-family: Arial, Helvetica, sans-serif;
 
 }
 .minh{
@@ -57,6 +64,13 @@
 .message{
   line-height: 45px;
   margin-top: 0;
+  font-size: large;
+  font-family: "Helvetica Neue",
+    Arial,
+    "Hiragino Kaku Gothic ProN",
+    "Hiragino Sans",
+    Meiryo,
+    sans-serif;
 }
 .we{
   text-align: right;
@@ -71,6 +85,7 @@
   background-color:ghostwhite;
 }
 #text{
+  font-family: Arial, Helvetica, sans-serif;
   color: dimgray;
   opacity: 0;
   animation-name: fadein-right;
@@ -105,6 +120,7 @@ body{
 }
 main{
   flex: 1;
+  background-color: #f8f9fa;
 }
 
 p:hover{

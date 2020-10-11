@@ -152,3 +152,12 @@ p:hover{
     transform: translateX(0);
   }
 } 
+
+@media screen and (max-width:470px){
+  .wm{
+    width: 300px;
+  }
+}
+
+
+

@@ -157,7 +157,27 @@ p:hover{
   .wm{
     width: 300px;
   }
-}
+  .pic{
+    width: 130px;
+    height: 160px;
+  }
+  .weclub{
+    width: 350px;
+  }
+  .weclub2{
+    width: 350px;
+    height: 250px;
+  }
+  .instaicon{
+    width: 50px;
+  }
+  .mailicon{
+    width: 30px;
+    height: 30px;
+  }
+
+  {
+  
 
 
 

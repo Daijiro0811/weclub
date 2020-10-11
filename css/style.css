@@ -169,7 +169,7 @@ p:hover{
     height: 250px;
   }
   .instaicon{
-    width: 50px;
+    width: 35px; height: 35px;
   }
   .mailicon{
     width: 30px;

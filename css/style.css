@@ -46,6 +46,7 @@
     "Hiragino Sans",
     Meiryo,
     sans-serif;
+
 }
 .pic{
   border-radius: 50%;
@@ -178,11 +179,14 @@ p:hover{
     width: 30px;
     height: 30px;
   }
+  .profile{
+    margin-top: 30px;
+  }
 }
 
 .padding{
-  padding-left: 30px;
-  padding-right: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
 
 }
 

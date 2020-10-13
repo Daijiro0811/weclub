@@ -96,12 +96,9 @@
 .viet{
   margin-top: 85px;
 }
-.back{
-  background-color:ghostwhite;
-}
 #text{
   font-family: Arial, Helvetica, sans-serif;
-  color: dimgray;
+  color: #ee7d50;
   opacity: 0;
   animation-name: fadein-right;
   animation-duration: 1.5s;
@@ -128,21 +125,23 @@
 .foot{
   text-align: right;
   color: darkgrey;
+  background-color: #d2ddde;
+}
+p {
+  color: dimgrey;
 }
 
 body{
   display: flex;
   flex-flow: column;
   min-height: 100vh;
+
 }
 main{
   flex: 1;
   background-color: #f8f9fa;
   padding-top: 150px;
-}
-
-p:hover{
-  color: midnightblue;
+  background-color: #d2ddde;
 }
 
 @keyframes fadein-right{

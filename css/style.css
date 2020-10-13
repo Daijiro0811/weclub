@@ -122,7 +122,7 @@
   font-size: 45px;
 }
 
-.foot{
+footer{
   text-align: right;
   color: darkgrey;
   background-color: #d2ddde;
@@ -143,6 +143,8 @@ main{
   padding-top: 150px;
   background-color: #d2ddde;
 }
+
+
 
 @keyframes fadein-right{
   0%{

@@ -126,6 +126,7 @@ footer{
   text-align: right;
   color: darkgrey;
   background-color: #d2ddde;
+  position: relative;
 }
 p {
   color: dimgrey;

@@ -190,6 +190,9 @@ main{
   .profile{
     margin-top: 30px;
   }
+  p{
+    line-height: 1.5;
+  }
 }
 
 .padding{
